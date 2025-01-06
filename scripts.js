@@ -8,11 +8,11 @@ Reveal.initialize({
     slideNumber: "c/t",
     //fragments: false,
     //autoAnimate: false,
-    //mouseWheel: true,
+    mouseWheel: true,
     //view: 'scroll',
     //scrollProgress: true,
     //controlsLayout: 'edges',
-    //keyboard: true,
+    keyboard: true,
 
     menu: {
         themes: false,
