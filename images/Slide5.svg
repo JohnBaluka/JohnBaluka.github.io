@@ -131,52 +131,53 @@
   </defs>
   <g clip-path="url(#clip0)" id="gSlide--slide5">
     <rect x="0" y="0" width="1280" height="720" id="rectSlide--slide5--0" style="fill:white;" />
-    <rect x="0" y="0" width="1280" height="67" id="TopRectangle--slide5--1" style="fill:#8064A2;" />
-    <a href="#slide1" id="rectJohnBaluka--slide5--2__LINK">
-      <path d="M5.50005 13.8335 C5.50005 8.12651 10.1265 3.50005 15.8335 3.50005 L202.167 3.50005 C207.874 3.50005 212.5 8.12651 212.5 13.8335 L212.5 55.1666 C212.5 60.8736 207.874 65.5001 202.167 65.5001 L15.8335 65.5001 C10.1265 65.5001 5.50005 60.8736 5.50005 55.1666 Z" id="rectJohnBaluka--slide5--2" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+    <rect x="0" y="660" width="1280" height="60" id="BottomRectangle--slide5--1" style="fill:#8064A2;" />
+    <rect x="0" y="0" width="1280" height="67" id="TopRectangle--slide5--2" style="fill:#8064A2;" />
+    <a href="#slide1" id="rectJohnBaluka--slide5--3__LINK">
+      <path d="M5.50005 13.8335 C5.50005 8.12651 10.1265 3.50005 15.8335 3.50005 L202.167 3.50005 C207.874 3.50005 212.5 8.12651 212.5 13.8335 L212.5 55.1666 C212.5 60.8736 207.874 65.5001 202.167 65.5001 L15.8335 65.5001 C10.1265 65.5001 5.50005 60.8736 5.50005 55.1666 Z" id="rectJohnBaluka--slide5--3" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
     </a>
-    <a href="#slide2" id="rectMicrosoft--slide5--3__LINK">
-      <path d="M218.5 13.8336 C218.5 8.12656 223.127 3.50005 228.834 3.50005 L414.166 3.50005 C419.874 3.50005 424.5 8.12656 424.5 13.8336 L424.5 55.1665 C424.5 60.8735 419.874 65.5 414.166 65.5 L228.834 65.5 C223.127 65.5 218.5 60.8735 218.5 55.1665 Z" id="rectMicrosoft--slide5--3" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+    <a href="#slide2" id="rectMicrosoft--slide5--4__LINK">
+      <path d="M218.5 13.8336 C218.5 8.12656 223.127 3.50005 228.834 3.50005 L414.166 3.50005 C419.874 3.50005 424.5 8.12656 424.5 13.8336 L424.5 55.1665 C424.5 60.8735 419.874 65.5 414.166 65.5 L228.834 65.5 C223.127 65.5 218.5 60.8735 218.5 55.1665 Z" id="rectMicrosoft--slide5--4" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
     </a>
-    <a href="#slide3" id="rectRadzen--slide5--4__LINK">
-      <path d="M431.5 13.8336 C431.5 8.12656 436.127 3.50005 441.834 3.50005 L627.167 3.50005 C632.874 3.50005 637.5 8.12656 637.5 13.8336 L637.5 55.1665 C637.5 60.8735 632.874 65.5 627.167 65.5 L441.834 65.5 C436.127 65.5 431.5 60.8735 431.5 55.1665 Z" id="rectRadzen--slide5--4" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+    <a href="#slide3" id="rectRadzen--slide5--5__LINK">
+      <path d="M431.5 13.8336 C431.5 8.12656 436.127 3.50005 441.834 3.50005 L627.167 3.50005 C632.874 3.50005 637.5 8.12656 637.5 13.8336 L637.5 55.1665 C637.5 60.8735 632.874 65.5 627.167 65.5 L441.834 65.5 C436.127 65.5 431.5 60.8735 431.5 55.1665 Z" id="rectRadzen--slide5--5" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
     </a>
-    <a href="#slide4" id="rectAccess2Blazor--slide5--5__LINK">
-      <path d="M644.5 13.8336 C644.5 8.12656 649.127 3.50005 654.834 3.50005 L840.167 3.50005 C845.874 3.50005 850.5 8.12656 850.5 13.8336 L850.5 55.1665 C850.5 60.8735 845.874 65.5 840.167 65.5 L654.834 65.5 C649.127 65.5 644.5 60.8735 644.5 55.1665 Z" id="rectAccess2Blazor--slide5--5" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+    <a href="#slide4" id="rectAccess2Blazor--slide5--6__LINK">
+      <path d="M644.5 13.8336 C644.5 8.12656 649.127 3.50005 654.834 3.50005 L840.167 3.50005 C845.874 3.50005 850.5 8.12656 850.5 13.8336 L850.5 55.1665 C850.5 60.8735 845.874 65.5 840.167 65.5 L654.834 65.5 C649.127 65.5 644.5 60.8735 644.5 55.1665 Z" id="rectAccess2Blazor--slide5--6" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
     </a>
-    <a href="#slide5" id="rectOqtane--slide5--6__LINK">
-      <path d="M856.5 13.8335 C856.5 8.12651 861.127 3.50005 866.834 3.50005 L1053.17 3.50005 C1058.87 3.50005 1063.5 8.12651 1063.5 13.8335 L1063.5 55.1666 C1063.5 60.8736 1058.87 65.5001 1053.17 65.5001 L866.834 65.5001 C861.127 65.5001 856.5 60.8736 856.5 55.1666 Z" id="rectOqtane--slide5--6" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+    <a href="#slide5" id="rectOqtane--slide5--7__LINK">
+      <path d="M856.5 13.8335 C856.5 8.12651 861.127 3.50005 866.834 3.50005 L1053.17 3.50005 C1058.87 3.50005 1063.5 8.12651 1063.5 13.8335 L1063.5 55.1666 C1063.5 60.8736 1058.87 65.5001 1053.17 65.5001 L866.834 65.5001 C861.127 65.5001 856.5 60.8736 856.5 55.1666 Z" id="rectOqtane--slide5--7" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
     </a>
-    <a href="#slide6" id="rectContact--slide5--7__LINK">
-      <path d="M1069.5 13.8336 C1069.5 8.12656 1074.13 3.50005 1079.83 3.50005 L1265.17 3.50005 C1270.87 3.50005 1275.5 8.12656 1275.5 13.8336 L1275.5 55.1665 C1275.5 60.8735 1270.87 65.5 1265.17 65.5 L1079.83 65.5 C1074.13 65.5 1069.5 60.8735 1069.5 55.1665 Z" id="rectContact--slide5--7" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
-      <text transform="translate(1102.47, 48)" id="rectContact--slide5--8" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Options</text>
+    <a href="#slide6" id="rectContact--slide5--8__LINK">
+      <path d="M1069.5 13.8336 C1069.5 8.12656 1074.13 3.50005 1079.83 3.50005 L1265.17 3.50005 C1270.87 3.50005 1275.5 8.12656 1275.5 13.8336 L1275.5 55.1665 C1275.5 60.8735 1270.87 65.5 1265.17 65.5 L1079.83 65.5 C1074.13 65.5 1069.5 60.8735 1069.5 55.1665 Z" id="rectContact--slide5--8" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+      <text transform="translate(1102.47, 48)" id="rectContact--slide5--9" font-family="Carlito,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Options</text>
     </a>
-    <a href="#slide1" id="imgJohnBaluka--slide5--9__LINK">
-      <g clip-path="url(#clip1)" transform="matrix(0.000104987, 0, 0, 0.000104987, 15, 13)" id="imgJohnBaluka--slide5--9">
+    <a href="#slide1" id="imgJohnBaluka--slide5--10__LINK">
+      <g clip-path="url(#clip1)" transform="matrix(0.000104987, 0, 0, 0.000104987, 15, 13)" id="imgJohnBaluka--slide5--10">
         <g clip-path="url(#clip3)" transform="matrix(1, 0, 0, 1.00248, -118220, -87686)">
           <use xlink:href="#img2" width="100%" height="100%" transform="scale(8037.36)" />
         </g>
       </g>
     </a>
-    <a href="#slide2" id="imgMicrosoft--slide5--10__LINK">
-      <g clip-path="url(#clip4)" transform="matrix(0.000104987, 0, 0, 0.000104987, 238, 15)" id="imgMicrosoft--slide5--10">
+    <a href="#slide2" id="imgMicrosoft--slide5--11__LINK">
+      <g clip-path="url(#clip4)" transform="matrix(0.000104987, 0, 0, 0.000104987, 238, 15)" id="imgMicrosoft--slide5--11">
         <g clip-path="url(#clip6)" transform="matrix(1, 0, 0, 1.00282, -190512, -176483)">
           <use xlink:href="#img5" width="100%" height="100%" transform="scale(7147.87)" />
         </g>
       </g>
     </a>
-    <a href="#slide5" id="imgOqtane--slide5--11__LINK">
-      <g clip-path="url(#clip7)" transform="matrix(0.000104987, 0, 0, 0.000104987, 869, 12)" id="imgOqtane--slide5--11">
+    <a href="#slide5" id="imgOqtane--slide5--12__LINK">
+      <g clip-path="url(#clip7)" transform="matrix(0.000104987, 0, 0, 0.000104987, 869, 12)" id="imgOqtane--slide5--12">
         <g clip-path="url(#clip9)" transform="matrix(1, 0, 0, 1.00126, -0.5, -247056)">
           <use xlink:href="#img8" width="100%" height="100%" transform="scale(5746.75)" />
         </g>
       </g>
     </a>
-    <a href="#slide4" id="imgRadzen--slide5--12__LINK">
-      <g clip-path="url(#clip10)" id="imgRadzen--slide5--12">
+    <a href="#slide4" id="imgRadzen--slide5--13__LINK">
+      <g clip-path="url(#clip10)" id="imgRadzen--slide5--13">
         <g clip-path="url(#clip11)">
           <g>
-            <path d="M25 50 C38.8071 50 50 38.8071 50 25 C50 11.1929 38.8071 0 25 0 C11.1929 0 0 11.1929 0 25 C0 34.6323 5.44757 42.9925 13.4299 47.1673 L13.4454 46.875 L12.8671 35.9375 L19.4545 35.9375 C19.4545 35.9375 18.8204 40.9398 18.8204 46.875 C18.8204 47.6838 18.8327 48.4752 18.8541 49.2389 C20.8204 49.7359 22.8793 50 25 50 Z M27.1223 16.5284 C24.5061 18.0389 23.1255 20.5584 22.5877 21.7566 L18.8321 24.8255 C18.8245 24.37 18.8204 23.9068 18.8204 23.4375 C18.8204 17.5023 19.4848 12.5 19.4848 12.5 L12.8671 12.5 C12.8671 12.5 13.4454 17.5023 13.4454 23.4375 C13.4454 29.3727 12.8671 34.375 12.8671 34.375 L19.4848 34.375 C19.4848 34.375 18.9902 30.6507 18.8545 25.8162 L19.4652 25.3171 C20.0068 26.0504 21.465 27.6843 24.0877 28.3484 C27.5186 29.2171 33.7996 28.6429 33.7996 28.6429 C33.7996 28.6429 28.4634 25.4852 25.0325 24.6166 C23.0564 24.1162 21.4279 24.3032 20.4021 24.5516 L22.9511 22.4686 C24.1734 22.5063 26.9762 22.4123 29.7298 21.0446 C33.393 19.2248 40.5838 11.8825 40.5838 11.8825 C40.5838 11.8825 30.6468 14.4935 27.1223 16.5284 Z" transform="matrix(1.00347, 7.10543E-17, 0, 1, 661, 9)" fill-rule="evenodd" style="fill:url(#fill12);" />
+            <path d="M25 50 C38.8071 50 50 38.8071 50 25 C50 11.1929 38.8071 0 25 0 C11.1929 0 0 11.1929 0 25 C0 34.6323 5.44757 42.9925 13.4299 47.1673 L13.4454 46.875 L12.8671 35.9375 L19.4545 35.9375 C19.4545 35.9375 18.8204 40.9398 18.8204 46.875 C18.8204 47.6838 18.8327 48.4752 18.8541 49.2389 C20.8204 49.7359 22.8793 50 25 50 Z M27.1223 16.5284 C24.5061 18.0389 23.1255 20.5584 22.5877 21.7566 L18.8321 24.8255 C18.8245 24.37 18.8204 23.9068 18.8204 23.4375 C18.8204 17.5023 19.4848 12.5 19.4848 12.5 L12.8671 12.5 C12.8671 12.5 13.4454 17.5023 13.4454 23.4375 C13.4454 29.3727 12.8671 34.375 12.8671 34.375 L19.4848 34.375 C19.4848 34.375 18.9902 30.6507 18.8545 25.8162 L19.4652 25.3171 C20.0068 26.0504 21.465 27.6843 24.0877 28.3484 C27.5186 29.2171 33.7996 28.6429 33.7996 28.6429 C33.7996 28.6429 28.4634 25.4852 25.0325 24.6166 C23.0564 24.1162 21.4279 24.3032 20.4021 24.5516 L22.9511 22.4686 C24.1734 22.5063 26.9762 22.4123 29.7298 21.0446 C33.393 19.2248 40.5838 11.8825 40.5838 11.8825 C40.5838 11.8825 30.6468 14.4935 27.1223 16.5284 Z" transform="matrix(1.00347, 7.10543E-17, 0, 1, 661, 9)" fill-rule="evenodd" style="fill:url(&quot;#fill12&quot;);" />
             <path d="M94.2688 33.5132 L94.2664 33.5111 C92.9016 31.795 92.2305 29.4114 92.2305 26.3825 C92.2305 24.8882 92.4422 23.5379 92.8695 22.3337 L92.8703 22.3309 C93.3211 21.132 93.9109 20.1154 94.6422 19.2843 C95.3727 18.4552 96.2047 17.8125 97.1398 17.3584 L97.1414 17.3576 C98.1016 16.9038 99.0891 16.6759 100.103 16.6759 C101.158 16.6759 102.062 16.8638 102.808 17.2483 C103.436 17.5511 104.062 17.9548 104.685 18.4579 L104.556 15.9296 L104.556 10.7144 L109.16 10.7144 L109.16 35.6087 L105.321 35.6087 L105.034 33.7116 C104.38 34.3416 103.627 34.8809 102.774 35.3302 C101.862 35.8111 100.896 36.0521 99.8805 36.0521 C97.5383 36.0521 95.6617 35.207 94.2688 33.5132 Z M102.784 20.855 L102.781 20.8543 C102.208 20.6396 101.624 20.5327 101.028 20.5327 C99.9031 20.5327 98.9516 21.0204 98.1664 22.0186 C97.3844 23.0114 96.9813 24.4457 96.9813 26.3455 C96.9813 28.2991 97.325 29.7614 97.9875 30.7554 C98.668 31.7143 99.6367 32.1954 100.917 32.1954 C102.194 32.1954 103.406 31.5682 104.556 30.2709 L104.556 21.953 C103.948 21.4245 103.356 21.0609 102.784 20.855 Z M60.7142 17.1192 L64.562 17.1192 L64.8423 20.1636 C65.4655 19.0891 66.211 18.2548 67.082 17.6671 C68.0189 17.0101 68.9903 16.6759 69.9934 16.6759 L71.8692 16.6759 L71.8692 20.8282 L70.1384 20.8282 C69.0375 20.8282 68.1746 20.9677 67.281 21.6088 L67.2782 21.6109 C66.5335 22.1218 65.876 23.0373 65.3175 24.3845 L65.3175 35.6087 L60.7142 35.6087 Z M112.397 35.6087 L112.397 33.0907 L120.828 20.8282 L112.397 20.8282 L112.397 17.1192 L126.661 17.1192 L126.661 19.6002 L118.266 31.8629 L126.661 31.8629 L126.661 35.6087 Z M147.562 35.6087 L147.562 17.1192 L151.405 17.1192 L151.693 19.4937 C152.483 18.7446 153.33 18.097 154.234 17.5507 L154.235 17.5496 C155.228 16.9655 156.37 16.6759 157.655 16.6759 C159.643 16.6759 161.123 17.3188 162.052 18.6327 C162.97 19.9057 163.417 21.7207 163.417 24.0545 L163.417 35.6087 L158.814 35.6087 L158.814 24.6088 C158.814 23.1127 158.591 22.1012 158.18 21.5323 C157.779 20.9759 157.113 20.6805 156.137 20.6805 C155.378 20.6805 154.708 20.8695 154.12 21.2445 L154.119 21.2454 C153.555 21.5977 152.903 22.1261 152.165 22.835 L152.165 35.6087 Z M75.4419 34.5625 L75.4403 34.5609 C74.4082 33.5382 73.8973 32.1982 73.8973 30.558 C73.8973 29.5729 74.1014 28.6939 74.5146 27.9263 L74.5157 27.9245 C74.955 27.1309 75.6241 26.4577 76.515 25.9029 L76.517 25.9018 C77.4292 25.3493 78.5641 24.8882 79.9172 24.5157 L79.918 24.5155 C81.2563 24.1539 82.8391 23.875 84.6648 23.6782 C84.6336 23.2832 84.5648 22.9079 84.4594 22.552 L84.4578 22.5462 L84.4562 22.5405 C84.3625 22.1223 84.1875 21.7668 83.9344 21.4696 L83.9297 21.4643 L83.925 21.4584 C83.6969 21.1418 83.3883 20.9027 82.9938 20.7416 L82.9891 20.74 L82.9852 20.7382 C82.5922 20.5546 82.0969 20.4587 81.4922 20.4587 C80.6203 20.4587 79.7594 20.6266 78.9086 20.9636 C78.0725 21.3048 77.2477 21.7195 76.4346 22.2077 L76.2805 22.3004 L74.5485 19.1543 L74.687 19.0673 C75.7177 18.4196 76.8723 17.8604 78.15 17.3886 C79.4391 16.9129 80.8273 16.6759 82.3125 16.6759 C84.6344 16.6759 86.3938 17.3646 87.5547 18.7698 C88.7344 20.1429 89.3109 22.1229 89.3109 24.6827 L89.3109 35.6087 L85.4453 35.6087 L85.1539 33.6598 C84.3531 34.32 83.4938 34.8773 82.5773 35.3316 C81.6312 35.8127 80.5977 36.0521 79.4781 36.0521 C77.8255 36.0521 76.4743 35.5596 75.4419 34.5625 Z M82.7883 31.8846 C83.3781 31.5573 84.0078 31.0907 84.6758 30.4818 L84.6758 26.6889 C83.5234 26.8332 82.5539 27.0209 81.7648 27.2509 C80.9281 27.4946 80.2602 27.7727 79.7555 28.0821 L79.7531 28.0837 L79.75 28.0852 C79.2469 28.3702 78.9008 28.6952 78.6969 29.0546 C78.4875 29.4232 78.3836 29.8127 78.3836 30.2254 C78.3836 31.0023 78.6195 31.533 79.0594 31.86 C79.5203 32.2025 80.1156 32.3802 80.8586 32.3802 C81.5766 32.3802 82.2172 32.2145 82.7852 31.8861 Z M133.826 35.4125 L133.823 35.4113 C132.716 34.9593 131.746 34.3184 130.915 33.4889 C130.083 32.6582 129.429 31.6527 128.952 30.4752 L128.951 30.4711 C128.498 29.2659 128.273 27.9021 128.273 26.3825 C128.273 24.8861 128.511 23.5337 128.989 22.3279 C129.465 21.1279 130.092 20.1109 130.874 19.28 L130.877 19.278 C131.681 18.4495 132.6 17.8082 133.633 17.3555 C134.666 16.9029 135.726 16.6759 136.812 16.6759 C138.066 16.6759 139.176 16.8885 140.14 17.319 C141.101 17.7482 141.9 18.3554 142.535 19.1407 C143.193 19.9239 143.684 20.8564 144.011 21.935 C144.337 23.0127 144.499 24.1877 144.499 25.4587 C144.499 25.8821 144.43 26.6584 144.43 26.6584 C144.43 26.6584 144.362 27.3329 144.31 27.5655 L144.28 27.7013 L132.79 27.7013 C133.004 29.2018 133.549 30.3521 134.413 31.1695 C135.338 31.998 136.516 32.4171 137.959 32.4171 C138.732 32.4171 139.441 32.3088 140.087 32.0939 C140.765 31.8521 141.431 31.5255 142.087 31.1134 L142.244 31.0152 L143.851 33.978 L143.718 34.0654 C142.841 34.6404 141.866 35.1145 140.793 35.4882 C139.712 35.8645 138.583 36.0521 137.404 36.0521 C136.127 36.0521 134.933 35.8395 133.826 35.4125 Z M139.561 21.4616 L139.559 21.4591 C139.008 20.7021 138.141 20.3109 136.923 20.3109 C135.883 20.3109 134.975 20.675 134.191 21.4096 C133.45 22.1048 132.966 23.1193 132.755 24.4725 L140.45 24.4725 C140.425 23.1766 140.123 22.18 139.562 21.4639 Z" transform="matrix(1.00347, 0, 0, 1, 661, 9)" fill-rule="evenodd" style="fill:#050A23;" />
             <path d="M175.005 35.6249 L175.005 10.9124 L181.68 10.9124 C184.18 10.9124 186.167 11.3999 187.642 12.3749 C189.117 13.3249 189.855 14.8374 189.855 16.9124 C189.855 18.2124 189.53 19.3499 188.88 20.3249 C188.23 21.2749 187.28 21.9374 186.03 22.3124 L186.03 22.4624 C187.63 22.7124 188.917 23.3499 189.892 24.3749 C190.867 25.3749 191.355 26.7249 191.355 28.4249 C191.355 30.7999 190.517 32.5999 188.842 33.8249 C187.192 35.0249 184.967 35.6249 182.167 35.6249 Z M176.73 21.7874 L181.005 21.7874 C183.53 21.7874 185.342 21.3749 186.442 20.5499 C187.567 19.6999 188.13 18.5499 188.13 17.0999 C188.13 15.3499 187.542 14.1249 186.367 13.4249 C185.192 12.6999 183.467 12.3374 181.192 12.3374 L176.73 12.3374 Z M176.73 34.1999 L181.717 34.1999 C184.167 34.1999 186.105 33.7374 187.53 32.8124 C188.955 31.8874 189.667 30.4374 189.667 28.4624 C189.667 26.6874 188.967 25.3749 187.567 24.5249 C186.192 23.6499 184.242 23.2124 181.717 23.2124 L176.73 23.2124 Z" transform="matrix(1.00347, 0, 0, 1, 661, 9)" style="fill:#050A23;" />
             <path d="M197.959 36.0749 C196.484 36.0749 195.747 35.1249 195.747 33.2249 L195.747 8.66242 L197.397 8.66242 L197.397 33.4499 C197.397 34.2249 197.659 34.6124 198.184 34.6124 L198.447 34.6124 C198.547 34.5874 198.684 34.5624 198.859 34.5374 L199.159 35.8874 C198.984 35.9374 198.809 35.9749 198.634 35.9999 C198.459 36.0499 198.234 36.0749 197.959 36.0749 Z" transform="matrix(1.00347, 0, 0, 1, 661, 9)" style="fill:#050A23;" />
@@ -194,100 +195,116 @@
         </g>
       </g>
     </a>
-    <a href="#slide3" id="imgBlazor--slide5--13__LINK">
-      <g transform="matrix(0.000104987, 0, 0, 0.000104987, 457, 8)" id="imgBlazor--slide5--13">
+    <a href="#slide3" id="imgBlazor--slide5--14__LINK">
+      <g transform="matrix(0.000104987, 0, 0, 0.000104987, 457, 8)" id="imgBlazor--slide5--14">
         <g clip-path="url(#clip14)" transform="scale(1.01698, 1)">
           <use xlink:href="#img13" width="100%" height="100%" transform="scale(9178.64)" />
         </g>
       </g>
     </a>
-    <a href="https://www.linkedin.com/in/johnbaluka/" id="imgLinkedIn--slide5--14__LINK" target="_blank">
-      <g clip-path="url(#clip15)" transform="matrix(0.000104987, 0, 0, 0.000104987, 587, 665)" id="imgLinkedIn--slide5--14">
+    <a href="https://www.linkedin.com/in/johnbaluka/" id="imgLinkedIn--slide5--15__LINK" target="_blank">
+      <title>Connect on LinkedIn</title>
+      <g clip-path="url(#clip15)" transform="matrix(0.000104987, 0, 0, 0.000104987, 587, 665)" id="imgLinkedIn--slide5--15">
         <g clip-path="url(#clip17)" transform="matrix(1.00068, 0, 0, 1, 0, -99000.9)">
           <use xlink:href="#img16" width="100%" height="100%" transform="scale(4970.77)" />
         </g>
       </g>
     </a>
-    <a href="https://github.com/JohnBaluka" id="imgGitHub--slide5--15__LINK" target="_blank">
-      <g clip-path="url(#clip18)" transform="matrix(0.000104987, 0, 0, 0.000104987, 648, 666)" id="imgGitHub--slide5--15">
+    <a href="https://github.com/JohnBaluka" id="imgGitHub--slide5--16__LINK" target="_blank">
+      <title>See my GitHub Repos</title>
+      <g clip-path="url(#clip18)" transform="matrix(0.000104987, 0, 0, 0.000104987, 648, 666)" id="imgGitHub--slide5--16">
         <g clip-path="url(#clip20)" transform="matrix(1, 0, 0, 1.01051, -156002, 0)">
           <use xlink:href="#img19" width="100%" height="100%" transform="scale(5141.44)" />
         </g>
       </g>
     </a>
-    <a href="https://sessionize.com/john-baluka" id="imgSessionize--slide5--16__LINK" target="_blank">
-      <g clip-path="url(#clip21)" transform="matrix(0.000104987, 0, 0, 0.000104987, 708, 666)" id="imgSessionize--slide5--16">
+    <a href="https://sessionize.com/john-baluka" id="imgSessionize--slide5--17__LINK" target="_blank">
+      <title>See my upcoming Talks and Workshops</title>
+      <g clip-path="url(#clip21)" transform="matrix(0.000104987, 0, 0, 0.000104987, 708, 666)" id="imgSessionize--slide5--17">
         <g clip-path="url(#clip23)">
           <use xlink:href="#img22" width="100%" height="100%" transform="matrix(6217.71, 0, 0, 6217.71, -0.5, 0)" />
         </g>
       </g>
     </a>
-    <a href="https://www.youtube.com/@JohnBaluka" id="imgYouTube--slide5--17__LINK" target="_blank">
-      <g clip-path="url(#clip24)" transform="matrix(0.000104987, 0, 0, 0.000104987, 520, 669)" id="imgYouTube--slide5--17">
+    <a href="https://www.youtube.com/@JohnBaluka" id="imgYouTube--slide5--18__LINK" target="_blank">
+      <title>Goto My YouTube Channel</title>
+      <g clip-path="url(#clip24)" transform="matrix(0.000104987, 0, 0, 0.000104987, 520, 669)" id="imgYouTube--slide5--18">
         <g clip-path="url(#clip26)" transform="matrix(1, 0, 0, 1.00388, -45635.5, -106907)">
           <use xlink:href="#img25" width="100%" height="100%" transform="scale(5427.79)" />
         </g>
       </g>
     </a>
-    <a href="https://multimodalslides.com/" id="imgMultimodalSlides--slide5--18__LINK" target="_blank">
-      <g clip-path="url(#clip27)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1132, 666)" id="imgMultimodalSlides--slide5--18">
+    <a href="https://multimodalslides.com/" id="imgMultimodalSlides--slide5--19__LINK" target="_blank">
+      <title>Goto MultimodalSlides.com</title>
+      <g clip-path="url(#clip27)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1132, 666)" id="imgMultimodalSlides--slide5--19">
         <g clip-path="url(#clip29)" transform="matrix(1.02787, 0, 0, 1, -1, -17356.5)">
           <use xlink:href="#img28" width="100%" height="100%" transform="scale(9279.37)" />
         </g>
       </g>
     </a>
-    <text transform="translate(1012.7, 695)" id="rectMultimodalSlides--slide5--19" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="700" style="fill:#8064A2;">Created with</text>
-    <a href="mailto:John@JohnBaluka.com?subject=[Please%20Provide%20Subject]&body=Please answer the questions below to help reduce spam...%0D%0A%0D%0ADo you want to be added to my mailing list? (Yes, No)%0D%0A%0D%0AHow did you hear about me?  (My Site, YouTube, LinkedIn, GitHub, Sessionize, Search, Word-of-Mouth)%0D%0A%0D%0AHow can I help?%0D%0A" id="rectEmail--slide5--20__LINK">
-      <text transform="translate(14.7744, 698)" id="rectEmail--slide5--20" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:blue;">John@JohnBaluka.com</text>
+    <text transform="translate(1012.7, 695)" id="rectMultimodalSlides--slide5--20" font-family="Carlito,sans-serif" font-size="21" font-weight="700" style="fill:white;">Created with</text>
+    <a href="mailto:John@JohnBaluka.com?subject=[Please%20Provide%20Subject]&body=Please answer the questions below to help reduce spam...%0D%0A%0D%0ADo you want to be added to my mailing list? (Yes, No)%0D%0A%0D%0AHow did you hear about me?  (My Site, YouTube, LinkedIn, GitHub, Sessionize, Search, Word-of-Mouth)%0D%0A%0D%0AHow can I help?%0D%0A" id="rectEmail--slide5--21__LINK">
+      <title>Email Me</title>
+      <text transform="translate(14.7744, 698)" id="rectEmail--slide5--21" font-family="Carlito,sans-serif" font-size="24" font-weight="400" style="fill:white;">John@JohnBaluka.com</text>
     </a>
-    <path d="M14.7744 701.333 L71.0244 701.333 L127.274 701.333 L183.524 701.333 L239.774 701.333 L239.774 703.333 L183.524 703.333 L127.274 703.333 L71.0244 703.333 L14.7744 703.333 Z" id="rectEmail--slide5--21" fill-rule="evenodd" style="fill:blue;" />
-    <a href="http://MovingToBlazor.com/" id="Picture_31--slide5--22__LINK" target="_blank">
-      <g clip-path="url(#clip30)" transform="matrix(0.000104987, 0, 0, 0.000104987, 817, 661)" id="Picture_31--slide5--22">
+    <path d="M14.7744 701.333 L71.0244 701.333 L127.274 701.333 L183.524 701.333 L239.774 701.333 L239.774 703.333 L183.524 703.333 L127.274 703.333 L71.0244 703.333 L14.7744 703.333 Z" id="rectEmail--slide5--22" fill-rule="evenodd" style="fill:white;" />
+    <a href="http://movingtoblazor.com/" id="Picture_31--slide5--23__LINK" target="_blank">
+      <title>Goto MovingToBlazor.com</title>
+      <g clip-path="url(#clip30)" transform="matrix(0.000104987, 0, 0, 0.000104987, 817, 661)" id="Picture_31--slide5--23">
         <g clip-path="url(#clip32)" transform="matrix(1.00557, 0, 0, 1, 0, -14299)">
           <use xlink:href="#img31" width="100%" height="100%" transform="scale(8572.67)" />
         </g>
       </g>
     </a>
-    <text transform="translate(9.6, -22)" id="TitlePlaceholder--slide5--23" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="39" font-weight="300">oqtane</text>
-    <text transform="translate(1208.95, -17)" id="SectionNameTextPlaceholder--slide5--24" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400">oqtane</text>
-    <g clip-path="url(#clip33)" transform="matrix(0.000104987, 0, 0, 0.000104987, 187, 90)" id="Picture_4--slide5--25">
-      <g clip-path="url(#clip35)">
-        <use xlink:href="#img34" width="100%" height="100%" transform="matrix(9525, 0, 0, 9525, -0.125, -0.0625)" />
+    <text transform="translate(9.6, -22)" id="TitlePlaceholder--slide5--24" font-family="Carlito,sans-serif" font-size="39" font-weight="300">oqtane</text>
+    <text transform="translate(1208.95, -17)" id="SectionNameTextPlaceholder--slide5--25" font-family="Carlito,sans-serif" font-size="21" font-weight="400">oqtane</text>
+    <a href="https://www.oqtane.org/" id="Picture_4--slide5--26__LINK" target="_blank">
+      <title>Learn about oqtane</title>
+      <g clip-path="url(#clip33)" transform="matrix(0.000104987, 0, 0, 0.000104987, 187, 90)" id="Picture_4--slide5--26">
+        <g clip-path="url(#clip35)">
+          <use xlink:href="#img34" width="100%" height="100%" transform="matrix(9525, 0, 0, 9525, -0.125, -0.0625)" />
+        </g>
       </g>
-    </g>
-    <path d="M103.5 592.667 C103.5 586.5 107.312 581.5 112.015 581.5 L431.985 581.5 C436.688 581.5 440.5 586.5 440.5 592.667 L440.5 637.333 C440.5 643.5 436.688 648.5 431.985 648.5 L112.015 648.5 C107.312 648.5 103.5 643.5 103.5 637.333 L103.5 592.667 Z" id="Freeform_6--slide5--26" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="2" style="fill:#8064A2;stroke:white;" />
-    <text transform="translate(219.478, 627)" id="Freeform_6--slide5--27" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">Reuse</text>
-    <path d="M476.5 592.667 C476.5 586.5 480.301 581.5 484.99 581.5 L804.01 581.5 C808.699 581.5 812.5 586.5 812.5 592.667 L812.5 637.333 C812.5 643.5 808.699 648.5 804.01 648.5 L484.99 648.5 C480.301 648.5 476.5 643.5 476.5 637.333 L476.5 592.667 Z" id="Freeform_7--slide5--28" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="3" style="fill:#8064A2;stroke:white;" />
-    <text transform="translate(549.22, 627)" id="Freeform_7--slide5--29" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">Administer</text>
-    <path d="M848.5 592.667 C848.5 586.5 852.312 581.5 857.015 581.5 L1176.98 581.5 C1181.69 581.5 1185.5 586.5 1185.5 592.667 L1185.5 637.333 C1185.5 643.5 1181.69 648.5 1176.98 648.5 L857.015 648.5 C852.312 648.5 848.5 643.5 848.5 637.333 L848.5 592.667 Z" id="Freeform_8--slide5--30" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="4" style="fill:#8064A2;stroke:white;" />
-    <text transform="translate(939.325, 627)" id="Freeform_8--slide5--31" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="400" class="fragment-off" data-fragment-index="4" style="fill:white;">Leverage</text>
-    <g clip-path="url(#clip36)" transform="matrix(0.000104987, 0, 0, 0.000104987, 994, 183)" id="__Blazor--slide5--32">
-      <g clip-path="url(#clip38)" transform="matrix(1.00163, 0, 0, 1, 0, -0.125)">
-        <use xlink:href="#img37" width="100%" height="100%" transform="scale(7100.45)" />
+    </a>
+    <path d="M103.5 592.667 C103.5 586.5 107.312 581.5 112.015 581.5 L431.985 581.5 C436.688 581.5 440.5 586.5 440.5 592.667 L440.5 637.333 C440.5 643.5 436.688 648.5 431.985 648.5 L112.015 648.5 C107.312 648.5 103.5 643.5 103.5 637.333 L103.5 592.667 Z" id="Freeform_6--slide5--27" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="2" style="fill:#8064A2;stroke:white;" />
+    <text transform="translate(219.478, 627)" id="Freeform_6--slide5--28" font-family="Carlito,sans-serif" font-size="43" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">Reuse</text>
+    <path d="M476.5 592.667 C476.5 586.5 480.301 581.5 484.99 581.5 L804.01 581.5 C808.699 581.5 812.5 586.5 812.5 592.667 L812.5 637.333 C812.5 643.5 808.699 648.5 804.01 648.5 L484.99 648.5 C480.301 648.5 476.5 643.5 476.5 637.333 L476.5 592.667 Z" id="Freeform_7--slide5--29" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="3" style="fill:#8064A2;stroke:white;" />
+    <text transform="translate(549.22, 627)" id="Freeform_7--slide5--30" font-family="Carlito,sans-serif" font-size="43" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">Administer</text>
+    <path d="M848.5 592.667 C848.5 586.5 852.312 581.5 857.015 581.5 L1176.98 581.5 C1181.69 581.5 1185.5 586.5 1185.5 592.667 L1185.5 637.333 C1185.5 643.5 1181.69 648.5 1176.98 648.5 L857.015 648.5 C852.312 648.5 848.5 643.5 848.5 637.333 L848.5 592.667 Z" id="Freeform_8--slide5--31" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="4" style="fill:#8064A2;stroke:white;" />
+    <text transform="translate(939.325, 627)" id="Freeform_8--slide5--32" font-family="Carlito,sans-serif" font-size="43" font-weight="400" class="fragment-off" data-fragment-index="4" style="fill:white;">Leverage</text>
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" id="__Blazor--slide5--33__LINK" target="_blank">
+      <title>Learn about Blazor</title>
+      <g clip-path="url(#clip36)" transform="matrix(0.000104987, 0, 0, 0.000104987, 994, 183)" id="__Blazor--slide5--33">
+        <g clip-path="url(#clip38)" transform="matrix(1.00163, 0, 0, 1, 0, -0.125)">
+          <use xlink:href="#img37" width="100%" height="100%" transform="scale(7100.45)" />
+        </g>
       </g>
-    </g>
-    <g clip-path="url(#clip39)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1124, 366)" id="Picture_6--slide5--33" class="fragment-off" data-fragment-index="1">
+    </a>
+    <g clip-path="url(#clip39)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1124, 366)" id="Picture_6--slide5--34" class="fragment-off" data-fragment-index="1">
       <g clip-path="url(#clip41)" transform="matrix(1.01111, 0, 0, 1, 0, -0.25)">
         <use xlink:href="#img40" width="100%" height="100%" transform="scale(8792.31)" />
       </g>
     </g>
-    <g transform="matrix(0.000104987, 0, 0, 0.000104987, 1136, 494)" id="Picture_6_DUP2--slide5--34" class="fragment-off" data-fragment-index="1">
+    <g transform="matrix(0.000104987, 0, 0, 0.000104987, 1136, 494)" id="Picture_6_DUP2--slide5--35" class="fragment-off" data-fragment-index="1">
       <g clip-path="url(#clip43)" transform="scale(1, 1.02128)">
         <use xlink:href="#img42" width="100%" height="100%" transform="scale(6994.92)" />
       </g>
     </g>
-    <g clip-path="url(#clip44)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1135, 433)" id="Picture_30--slide5--35" class="fragment-off" data-fragment-index="1">
+    <g clip-path="url(#clip44)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1135, 433)" id="Picture_30--slide5--36" class="fragment-off" data-fragment-index="1">
       <g clip-path="url(#clip45)" transform="matrix(1, 0, 0, 1.01051, -156002, 0)">
         <use xlink:href="#img19" width="100%" height="100%" transform="scale(5141.44)" />
       </g>
     </g>
-    <g clip-path="url(#clip46)" transform="matrix(0.000104987, 0, 0, 0.000104987, 24, 184)" id="Picture_2--slide5--36">
-      <g clip-path="url(#clip47)" transform="matrix(1.01101, 0, 0, 1, 0, -376199)">
-        <use xlink:href="#img8" width="100%" height="100%" transform="scale(8761.76)" />
+    <a href="https://www.oqtane.org/" id="Picture_2--slide5--37__LINK" target="_blank">
+      <title>Learn about oqtane</title>
+      <g clip-path="url(#clip46)" transform="matrix(0.000104987, 0, 0, 0.000104987, 24, 184)" id="Picture_2--slide5--37">
+        <g clip-path="url(#clip47)" transform="matrix(1.01101, 0, 0, 1, 0, -376199)">
+          <use xlink:href="#img8" width="100%" height="100%" transform="scale(8761.76)" />
+        </g>
       </g>
-    </g>
-    <path d="M856 13.3336 C856 7.62651 860.626 3 866.334 3 L1051.67 3 C1057.37 3 1062 7.62651 1062 13.3336 L1062 54.6664 C1062 60.3735 1057.37 65 1051.67 65 L866.334 65 C860.626 65 856 60.3735 856 54.6664 Z" id="rectHighlight--slide5--37" fill-rule="evenodd" stroke-width="6" stroke-miterlimit="8" style="fill:none;stroke:#FFC000;" />
-    <g clip-path="url(#clip48)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1200, 640)" id="Slide5--slide5--38" style="display:none;">
+    </a>
+    <path d="M856 13.3336 C856 7.62651 860.626 3 866.334 3 L1051.67 3 C1057.37 3 1062 7.62651 1062 13.3336 L1062 54.6664 C1062 60.3735 1057.37 65 1051.67 65 L866.334 65 C860.626 65 856 60.3735 856 54.6664 Z" id="rectHighlight--slide5--38" fill-rule="evenodd" stroke-width="6" stroke-miterlimit="8" style="fill:none;stroke:#FFC000;" />
+    <g clip-path="url(#clip48)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1200, 640)" id="Slide5--slide5--39" style="display:none;">
       <g clip-path="url(#clip50)">
         <use xlink:href="#img49" width="100%" height="100%" transform="matrix(9525, 0, 0, 9525, -1, -0.5)" />
       </g>
